@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Singles</title>
+	<atom:link href="https://lenguyen17.github.io/doancuoiky/product-category/singles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenguyen17.github.io/doancuoiky</link>
+	<description></description>
+	<lastBuildDate>Mon, 12 Jun 2023 08:21:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>CUPCAKE QUEEN</title>
+		<link>https://lenguyen17.github.io/doancuoiky/product/cupcake-queen/</link>
+					<comments>https://lenguyen17.github.io/doancuoiky/product/cupcake-queen/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2023 08:21:18 +0000</pubDate>
+				<guid isPermaLink="false">https://lenguyen17.github.io/doancuoiky/?post_type=product#038;p=98</guid>
+
+					<description><![CDATA[<div class="ps-product__description desc-for-default">
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+
+</div>
+<div class="ps-product__meta"><section class="ps-section ps-section--best-seller pt-40 pb-100">
+<div class="container">
+<div class="ps-section__header text-center mb-50"></div>
+</div>
+</section></div>]]></description>
+										<content:encoded><![CDATA[<div class="ps-section pt-80 pb-80">
+<div class="container">
+<div class="ps-product--detail">
+<div class="tab-content mb-60">
+<div id="tab_01" class="tab-pane active" role="tabpanel">
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="ps-section ps-section--best-seller pt-40 pb-100">
+<div class="container">
+<div class="ps-section__header text-center mb-50"></div>
+</div>
+</section>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lenguyen17.github.io/doancuoiky/product/cupcake-queen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
