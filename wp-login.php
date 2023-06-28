@@ -37,7 +37,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiky/woocommerce/wp-admin/?simply_static_page=28785">
+									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiky/woocommerce/wp-admin/?simply_static_page=30621">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
