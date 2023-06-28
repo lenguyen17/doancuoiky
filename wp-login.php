@@ -37,7 +37,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiky/woocommerce/wp-admin/?simply_static_page=19505">
+									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiky/woocommerce/wp-admin/?simply_static_page=28785">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -80,7 +80,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/doancuoiky\/woocommerce\/wp-admin\/admin
 /*  */</script>
 <script type="text/javascript" src="https://lenguyen17.github.io/doancuoiky/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">/*  */
-var userProfileL10n = {"user_id":"0","nonce":"c348404b1a"};
+var userProfileL10n = {"user_id":"0","nonce":"c79777482e"};
 /*  */</script>
 <script type="text/javascript" src="https://lenguyen17.github.io/doancuoiky/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
 	<div class="clear"></div>
